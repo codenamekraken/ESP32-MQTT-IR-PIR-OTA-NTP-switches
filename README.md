@@ -1,4 +1,4 @@
-# ESP32 Relay Panel with MQTT, IR, PIR, NTP, and OTA
+# ESP32 Relay Panel with MQTT, IR, PIR, NTP, and OTA for Home Assistant
 
 ## Project Overview
 
