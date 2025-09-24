@@ -53,5 +53,5 @@ This project demonstrates a fully-featured **ESP32 relay panel** with:
   * `ArduinoOTA`
   * `time.h` (built-in)
 
-## Setup Instructions
+
 
